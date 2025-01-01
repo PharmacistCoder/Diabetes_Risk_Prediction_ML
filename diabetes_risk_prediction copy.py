@@ -211,5 +211,6 @@ new_data=np.array([[6,149,72,35,0,34.6,0.627,51]])
 new_prediction=best_dt_model.predict(new_data)
 
 print("New prediction: ",new_prediction)
+# New prediction:  [0]
 
 
